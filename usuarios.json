@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Jose",
+        "correo": "jose@gmail.com",
+        "password": "12345",
+        "tipo": "Ciudadano"
+    },
+    {
+        "nombre": "Emilia",
+        "correo": "emily@gmail.com",
+        "password": "emilytan",
+        "tipo": "Rescatista"
+    },
+    {
+        "nombre": "Albergue de la Luz",
+        "correo": "delaluz@gmail.com",
+        "password": "259_AdlL",
+        "tipo": "Albergue"
+    },
+    {
+        "nombre": "Arenita Huellita",
+        "correo": "arenigat@gmail.com",
+        "password": "gatito1234",
+        "tipo": "Albergue"
+    },
+    {
+        "nombre": "David",
+        "correo": "deivid@gmail.com",
+        "password": "123456",
+        "tipo": "Ciudadano"
+    },
+    {
+        "nombre": "Cristina",
+        "correo": "cristiny@gmail.com",
+        "password": "criscris02",
+        "tipo": "Rescatista"
+    }
+]

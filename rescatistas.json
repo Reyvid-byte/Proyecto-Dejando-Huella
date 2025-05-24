@@ -1,0 +1,24 @@
+[
+    {
+        "nombre": "Emilia",
+        "correo": "emily@gmail.com",
+        "rescates": [
+            {
+                "id_reporte": 1,
+                "fecha": "23/05/2025 21:02",
+                "nombre_animal": "Negra"
+            }
+        ]
+    },
+    {
+        "nombre": "Cristina",
+        "correo": "cristiny@gmail.com",
+        "rescates": [
+            {
+                "id_reporte": 2,
+                "fecha": "23/05/2025 21:45",
+                "nombre_animal": "Patachin"
+            }
+        ]
+    }
+]

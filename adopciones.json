@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "id_animal": 1,
+        "id_refugio": 1,
+        "descripcion": "Amigable y jugetona con otros perros.",
+        "fecha_publicacion": "23/05/2025 21:27",
+        "estado": "Adoptado",
+        "solicitudes": [
+            1
+        ],
+        "imagen_adopcion": "adopciones_imgs\\1_1748057269.101005.jpg"
+    },
+    {
+        "id": 2,
+        "id_animal": 2,
+        "id_refugio": 2,
+        "descripcion": "Noble y jugueton ,pero sensible al los sonidos.",
+        "fecha_publicacion": "23/05/2025 21:51",
+        "estado": "Adoptado",
+        "solicitudes": [
+            2
+        ],
+        "imagen_adopcion": "adopciones_imgs\\2_1748058670.30073.jpg"
+    }
+]

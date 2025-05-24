@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nombre": "Arenita Huellita",
+        "correo": "arenigat@gmail.com",
+        "direccion": "Calle 25 Sur, Puebla de Zaragoza, Municipio de Puebla, Puebla, 72160, M\u00e9xico",
+        "telefono": "22137545",
+        "capacidad_maxima": 20,
+        "animales": [
+            {
+                "id_animal": 1,
+                "nombre": "Neris",
+                "categoria": "Perro",
+                "fecha_ingreso": "23/05/2025 21:18"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Albergue de la Luz",
+        "correo": "delaluz@gmail.com",
+        "direccion": "Puebla de Zaragoza, Municipio de Puebla, Puebla, 72160, M\u00e9xico",
+        "telefono": "2213689067",
+        "capacidad_maxima": 20,
+        "animales": [
+            {
+                "id_animal": 2,
+                "nombre": "Hachis",
+                "categoria": "Perro",
+                "fecha_ingreso": "23/05/2025 21:49"
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "id_adopcion": 1,
+        "ciudadano": "David",
+        "mensaje": "Tengo otra perrito y creo que serian grandes amigas.",
+        "estado": "Aprobado",
+        "fecha": "23/05/2025 21:28"
+    },
+    {
+        "id": 2,
+        "id_adopcion": 2,
+        "ciudadano": "Jose",
+        "mensaje": "Tambien tengo problemas auditivos, por lo cual nos entenderemos muy bien.",
+        "estado": "Aprobado",
+        "fecha": "23/05/2025 21:53"
+    }
+]

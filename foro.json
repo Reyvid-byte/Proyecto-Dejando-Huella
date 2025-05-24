@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "autor": "Jose",
+        "contenido": "Hola, como puedo realizar el proceso de adopcion?",
+        "fecha": "23/05/2025 20:54",
+        "respuestas": [
+            {
+                "autor": "Cristina",
+                "contenido": "Puedes consultarlo en la seccion de Educacion",
+                "fecha": "23/05/2025 21:47"
+            }
+        ]
+    }
+]

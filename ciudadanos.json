@@ -1,0 +1,24 @@
+[
+    {
+        "nombre": "David",
+        "correo": "deivid@gmail.com",
+        "adopciones": [
+            {
+                "id_animal": 1,
+                "fecha": "23/05/2025 21:29",
+                "refugio": 1
+            }
+        ]
+    },
+    {
+        "nombre": "Jose",
+        "correo": "jose@gmail.com",
+        "adopciones": [
+            {
+                "id_animal": 2,
+                "fecha": "23/05/2025 21:53",
+                "refugio": 2
+            }
+        ]
+    }
+]

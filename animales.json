@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "usuario": "David",
+        "imagen": "adopciones_imgs\\1_1748057269.101005.jpg",
+        "ubicacion": {
+            "coordenadas": [
+                19.03767031584872,
+                -98.21396307115555
+            ],
+            "direccion": "Plaza de la Salud, Puebla de Zaragoza, Municipio de Puebla, Puebla, 72410, M\u00e9xico"
+        },
+        "descripcion": "Perra de color negro, amistosa y juguetona",
+        "categoria": "Perro",
+        "fecha": "23/05/2025 20:38",
+        "estado": "Adoptado",
+        "prioridad": "Normal",
+        "rescatista": "Emilia",
+        "nombre_provisional": "Negra",
+        "evidencia": "rescates\\Emilia_20250523210223.jpeg",
+        "fecha_rescate": "23/05/2025 21:02",
+        "nombre_definitivo": "Neris",
+        "refugio": 1
+    },
+    {
+        "id": 2,
+        "usuario": "Jose",
+        "imagen": "adopciones_imgs\\2_1748058670.30073.jpg",
+        "ubicacion": {
+            "coordenadas": [
+                19.039156114408893,
+                -98.20378408794403
+            ],
+            "direccion": "Avenida 17 Poniente, Centro Hist\u00f3rico de Puebla, Puebla de Zaragoza, Municipio de Puebla, Puebla, 72000, M\u00e9xico"
+        },
+        "descripcion": "Cojo de una pata.",
+        "categoria": "Perro",
+        "fecha": "23/05/2025 21:43",
+        "estado": "Adoptado",
+        "prioridad": "Normal",
+        "rescatista": "Cristina",
+        "nombre_provisional": "Patachin",
+        "evidencia": "rescates\\Cristina_20250523214555.jpeg",
+        "fecha_rescate": "23/05/2025 21:45",
+        "nombre_definitivo": "Hachis",
+        "refugio": 2
+    }
+]
